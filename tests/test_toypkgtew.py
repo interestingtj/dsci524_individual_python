@@ -1,5 +1,5 @@
-from toypkg import toypkg
-from pycounts.pycounts import count_words
+from toypkgtew import toypkgtew
+from toypkgtew.pycounts import count_words
 from collections import Counter
 
 def test_count_words():

@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "toypkg"
+name = "toypkgtew"
 version = "0.1.0"
 description = "A toy package"
 authors = ["Tengwei Wang"]

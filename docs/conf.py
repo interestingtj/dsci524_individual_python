@@ -6,7 +6,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u"toypkg"
+project = u"toypkgtew"
 copyright = u"2025, Tengwei Wang"
 author = u"Tengwei Wang"
 

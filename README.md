@@ -1,21 +1,21 @@
-# toypkg
+# toypkgtew
 
 A toy package
 
 ## Installation
 
 ```bash
-$ pip install toypkg
+$ pip install toypkgtew
 ```
 
 ## Usage
 
-`toypkg` can be used to count words in a text file and plot results
+`toypkgtew` can be used to count words in a text file and plot results
 as follows:
 
 ```python
-from toypkg.pycounts import count_words
-from toypkg.plotting import plot_words
+from toypkgtew.pycounts import count_words
+from toypkgtew.plotting import plot_words
 import matplotlib.pyplot as plt
 
 file_path = "test.txt"  # path to your file
@@ -32,12 +32,12 @@ By contributing to this project, you agree to abide by its terms.
 
 ## License
 
-`pycounts` was created by Tengwei Wang. It is licensed under the terms
+`toypkgtew` was created by Tengwei Wang. It is licensed under the terms
 of the MIT license.
 
 ## Credits
 
-`toypkg` was created with 
+`toypkgtew` was created with 
 [`cookiecutter`](https://cookiecutter.readthedocs.io/en/latest/) and 
 the `py-pkgs-cookiecutter` 
 [template](https://github.com/py-pkgs/py-pkgs-cookiecutter).
